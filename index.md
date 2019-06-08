@@ -1,11 +1,8 @@
-## Welcome to GitHub Pages
+##  Linux安装和卸载MySQL
 
-You can use the [editor on GitHub](https://github.com/xuzihaode/xuzihaode.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MySQL 是最流行的关系型数据库管理系统，在 WEB 应用方面 MySQL 是最好的 RDBMS(Relational Database Management System：关系数据库管理系统)应用软件之一
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### 1、MySQL 安装
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
